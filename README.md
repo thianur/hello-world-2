@@ -1,2 +1,3 @@
 # hello-world-2
-something new here
+
+hi, i'm newbie here. nice to meet you.
